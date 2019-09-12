@@ -1,0 +1,38 @@
+[2019-08-19 13:07:16 ^24653.6]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 41
+[2019-08-19 13:07:16 $24646.0]	WARNING	swManager_check_exit_status: worker#6[pid=24653] abnormal exit, status=255, signal=0
+[2019-08-19 13:09:31 ^24654.7]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 41
+[2019-08-19 13:09:31 $24646.0]	WARNING	swManager_check_exit_status: worker#7[pid=24654] abnormal exit, status=255, signal=0
+[2019-08-19 13:09:34 ^24655.8]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 41
+[2019-08-19 13:09:34 $24646.0]	WARNING	swManager_check_exit_status: worker#8[pid=24655] abnormal exit, status=255, signal=0
+[2019-08-19 13:10:42 ^24656.9]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 41
+[2019-08-19 13:10:42 $24646.0]	WARNING	swManager_check_exit_status: worker#9[pid=24656] abnormal exit, status=255, signal=0
+[2019-08-19 13:10:43 ^24657.10]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 41
+[2019-08-19 13:10:43 $24646.0]	WARNING	swManager_check_exit_status: worker#10[pid=24657] abnormal exit, status=255, signal=0
+[2019-08-19 13:10:50 ^24658.11]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 41
+[2019-08-19 13:10:50 $24646.0]	WARNING	swManager_check_exit_status: worker#11[pid=24658] abnormal exit, status=255, signal=0
+[2019-08-19 13:11:39 ^24659.12]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 41
+[2019-08-19 13:11:39 $24646.0]	WARNING	swManager_check_exit_status: worker#12[pid=24659] abnormal exit, status=255, signal=0
+[2019-08-19 13:13:17 ^24660.13]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 41
+[2019-08-19 13:13:17 $24646.0]	WARNING	swManager_check_exit_status: worker#13[pid=24660] abnormal exit, status=255, signal=0
+[2019-08-19 13:13:23 ^24695.6]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 45
+[2019-08-19 13:13:23 $24688.0]	WARNING	swManager_check_exit_status: worker#6[pid=24695] abnormal exit, status=255, signal=0
+[2019-08-19 13:13:47 $24723.0]	WARNING	swManager_check_exit_status: worker#6[pid=24730] abnormal exit, status=255, signal=0
+[2019-08-19 13:14:15 ^24765.6]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 45
+[2019-08-19 13:14:15 $24758.0]	WARNING	swManager_check_exit_status: worker#6[pid=24765] abnormal exit, status=255, signal=0
+[2019-08-19 13:16:39 ^24800.6]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 49
+[2019-08-19 13:16:39 $24793.0]	WARNING	swManager_check_exit_status: worker#6[pid=24800] abnormal exit, status=255, signal=0
+[2019-08-19 13:17:00 $24828.0]	WARNING	swManager_check_exit_status: worker#6[pid=24835] abnormal exit, status=255, signal=0
+[2019-08-19 13:18:36 $24828.0]	WARNING	swManager_check_exit_status: worker#7[pid=24836] abnormal exit, status=255, signal=0
+[2019-08-19 13:18:54 $24828.0]	WARNING	swManager_check_exit_status: worker#8[pid=24837] abnormal exit, status=255, signal=0
+[2019-08-19 13:19:01 ^24872.6]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 46
+[2019-08-19 13:19:01 $24865.0]	WARNING	swManager_check_exit_status: worker#6[pid=24872] abnormal exit, status=255, signal=0
+[2019-08-19 13:20:14 ^24907.6]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 46
+[2019-08-19 13:20:14 $24900.0]	WARNING	swManager_check_exit_status: worker#6[pid=24907] abnormal exit, status=255, signal=0
+[2019-08-19 13:20:21 ^24908.7]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 46
+[2019-08-19 13:20:21 $24900.0]	WARNING	swManager_check_exit_status: worker#7[pid=24908] abnormal exit, status=255, signal=0
+[2019-08-19 13:20:21 ^24909.8]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 46
+[2019-08-19 13:20:21 $24900.0]	WARNING	swManager_check_exit_status: worker#8[pid=24909] abnormal exit, status=255, signal=0
+[2019-08-19 13:21:59 ^24944.6]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 47
+[2019-08-19 13:21:59 $24937.0]	WARNING	swManager_check_exit_status: worker#6[pid=24944] abnormal exit, status=255, signal=0
+[2019-08-19 13:24:45 ^24945.7]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Swoole\Server::start(): Unable to use async-io in task processes, please set `task_enable_coroutine` to true in /mnt/d/swooledemo/task.php on line 47
+[2019-08-19 13:24:46 $24937.0]	WARNING	swManager_check_exit_status: worker#7[pid=24945] abnormal exit, status=255, signal=0
